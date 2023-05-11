@@ -28,3 +28,7 @@ nav .container {
 .item {
     display: flex;
 }
+
+.link {
+    margin: 0 15px;
+}
