@@ -44,3 +44,7 @@ nav .container {
 .dropdown_list {
     display: none;
 }
+
+.dropdown:hover .dropdown_list {
+    display: block;
+}
