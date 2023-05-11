@@ -38,5 +38,9 @@ nav .container {
 }
 
 .dropdown_item {
-    
+    position: absolute;
+}
+
+.dropdown_list {
+    display: none;
 }
