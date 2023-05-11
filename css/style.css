@@ -17,3 +17,8 @@ ul,li {
     width: 1140px;
     margin: 0 auto;
 }
+
+nav .container {
+    display: flex;
+    align-items: center;
+}
