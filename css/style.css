@@ -38,6 +38,7 @@ nav .container {
 }
 
 .dropdown_item {
+    margin-top: -50px;
     position: absolute;
 }
 
@@ -47,4 +48,25 @@ nav .container {
 
 .dropdown:hover .dropdown_list {
     display: block;
+}
+
+.dropdown_absalute {
+    position: absolute;
+}
+
+.all {
+    position: relative;
+}
+
+.all:hover .list_drop {
+    display: block;
+}
+
+.drop_item {
+    position: absolute;
+    margin-left: -70px;
+}
+
+.list_drop {
+    display: none;
 }
