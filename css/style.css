@@ -28,53 +28,7 @@ nav .container {
     justify-content: space-between;
     margin-top: 30px;
 }
-
-.item {
-    display: flex;
-}
-
-.link {
-    margin: 0 15px;
-}
-
 .dropdown {
     position: relative;
 }
 
-.dropdown_item {
-    margin-top: -10px;
-    position: absolute;
-}
-
-.dropdown_list {
-    display: none;
-}
-
-.dropdown:hover .dropdown_list {
-    display: block;
-}
-
-.dropdown_absalute {
-    position: absolute;
-}
-
-.all {
-    position: relative;
-}
-
-.all:hover .list_drop {
-    display: block;
-}
-
-.drop_item {
-    position: absolute;
-    margin-left: -70px;
-}
-
-.list_drop {
-    display: none;
-}
-
-.all {
-    background-color: red;
-}
