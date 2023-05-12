@@ -18,6 +18,10 @@ ul,li {
     margin: 0 auto;
 }
 
+nav {
+    background-color: #F2F2F2;;
+}
+
 nav .container {
     display: flex;
     align-items: center;
@@ -69,4 +73,8 @@ nav .container {
 
 .list_drop {
     display: none;
+}
+
+.all {
+    background-color: red;
 }
