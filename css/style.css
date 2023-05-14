@@ -101,6 +101,11 @@ nav {
     color: white;
 }
 
+.link a{
+    color: white;
+    
+}
+
 
 nav .container {
     display: flex;
