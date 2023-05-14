@@ -168,6 +168,11 @@ nav {
     letter-spacing: 5px;
 }
 
+.view-link {
+    color: white;
+    background-color: coral;
+}
+
 .togather-all p {
     font-size: 20px;
     font-weight: 100;
