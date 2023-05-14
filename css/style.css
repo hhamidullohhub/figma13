@@ -43,7 +43,6 @@ body {
 @media (max-width: 860px) {
     .container {
         width: 740px;
-        background: darkgray;
     }
 }
 
