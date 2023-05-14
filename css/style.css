@@ -138,3 +138,7 @@ nav .container {
 .list {
     margin: 0 15px;
 }
+
+.nature-all {
+    display: flex;
+}
