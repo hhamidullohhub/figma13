@@ -172,6 +172,7 @@ nav {
     color: white;
     background-color: coral;
     padding: 15px 20px;
+    border-radius: 10px;
 }
 
 .togather-all p {
