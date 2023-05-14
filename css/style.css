@@ -148,17 +148,6 @@ nav .container {
     justify-content: space-around;
 }
 
-.img1 {
-    width: 300px;
-    height: 281px;
-}
-
-.img2 {
-    width: 300px;
-    height: 281px;
-    background-image: url(/img/IMAGE\ \(42\).png);
-}
-
 .nature-all {
     padding: 25px 0;
     display: flex;
