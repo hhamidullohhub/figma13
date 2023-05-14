@@ -119,7 +119,6 @@ body {
 @media(max-width: 260px){
     .container{
         width: 140px;
-        background-color: gold;
     }
 
     .item_Escape {
