@@ -141,4 +141,5 @@ nav .container {
 
 .nature-all {
     display: flex;
+    justify-content: space-evenly;
 }
