@@ -138,9 +138,10 @@ body {
 nav {
     background-image: url(/img/IMAGE\ \(41\).png);
     padding-bottom: 235px;
-    padding-top: 60px;
+    padding-top: 100px;
     background-repeat: no-repeat;
     background-position: center;
+    margin-top: -88px;
 }
 
 .item_Escape {
