@@ -96,6 +96,10 @@ body {
     .nature-li p {
         font-size: 10px;
     }
+
+    .lets-h {
+        font-size: 20px;
+    }
 }
 
 @media (max-width: 360px) {
