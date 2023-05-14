@@ -32,7 +32,56 @@ body {
 @media (max-width: 1060px) {
     .container {
         width: 940px;
+        background: blue;
+    }
+}
+
+@media (max-width: 960px) {
+    .container {
+        width: 840px;
+        background: gold;
+    }
+}
+
+@media (max-width: 860px) {
+    .container {
+        width: 740px;
+        background: darkgray;
+    }
+}
+
+@media (max-width: 760px) {
+    .container {
+        width: 640px;
+        background: black;
+    }
+}
+
+@media (max-width: 660px) {
+    .container {
+        width: 540px;
+        background: red;
+    }
+}
+
+@media (max-width: 560px) {
+    .container {
+        width: 440px;
         background: green;
+    }
+}
+
+@media (max-width: 460px) {
+    .container {
+        width: 340px;
+        background: salmon;
+    }
+}
+
+@media (max-width: 360px) {
+    .container {
+        width: 240px;
+        background: coral;
     }
 }
 
