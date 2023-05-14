@@ -73,6 +73,10 @@ body {
         width: 440px;
         background: green;
     }
+
+    .link a {
+        font-size: 12px;
+    }
 }
 
 @media (max-width: 460px) {
