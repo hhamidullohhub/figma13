@@ -121,7 +121,7 @@ body {
     }
 
     nav .container {
-        
+        justify-content: space-between;
     }
 }
 
