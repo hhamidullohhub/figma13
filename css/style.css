@@ -119,6 +119,15 @@ body {
     .nature-li p {
         font-size: 5px;
     }
+
+    .nature
+}
+
+@media(max-width: 260px){
+    .container{
+        width: 140px;
+        background-color: gold;
+    }
 }
 
 nav {
