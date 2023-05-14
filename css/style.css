@@ -22,8 +22,13 @@ body {
     margin: 0 auto;
 }
 
-@media {
+@media (max-width: 1160px) {
+    .container {
+        width: 1040px;
+        background: red;
+    }
 }
+
 
 nav .container {
     display: flex;
