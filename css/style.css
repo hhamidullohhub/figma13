@@ -16,3 +16,7 @@ a {
 body {
     font-family: sans-serif;
 }
+
+nav .container {
+    display: flex;
+}
