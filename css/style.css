@@ -107,6 +107,10 @@ nav {
     text-transform: capitalize;
 }
 
+.togather-all {
+    color: white;
+}
+
 
 nav .container {
     display: flex;
