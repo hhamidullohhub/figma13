@@ -109,6 +109,10 @@ nav {
     transition: .6s;
 }
 
+.link a:hover {
+    
+}
+
 .togather-all {
     text-align: center;
     color: white;
