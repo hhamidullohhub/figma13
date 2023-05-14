@@ -144,8 +144,9 @@ nav .container {
 }
 
 .img1 {
-    width: 200px;
-    height: 150px;
+    width: 460px;
+    height: 281px;
+    background-image: url(/img/IMAGE\ \(42\).png);
 }
 
 .nature-all {
