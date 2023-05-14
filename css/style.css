@@ -92,6 +92,10 @@ body {
     .link a {
         font-size: 8px;
     }
+
+    .nature-li p {
+        
+    }
 }
 
 @media (max-width: 360px) {
