@@ -149,6 +149,12 @@ nav .container {
     background-image: url(/img/IMAGE\ \(42\).png);
 }
 
+.img2 {
+    width: 460px;
+    height: 281px;
+    background-image: url(/img/IMAGE\ \(42\).png);
+}
+
 .nature-all {
     padding: 25px 0;
     display: flex;
