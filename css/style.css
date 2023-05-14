@@ -107,6 +107,10 @@ body {
         width: 240px;
         background: coral;
     }
+
+    .nature-li p {
+        
+    }
 }
 
 nav {
