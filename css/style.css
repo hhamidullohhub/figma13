@@ -178,6 +178,7 @@ nav {
     margin-top: 20px;
     border-radius: 8px;
     font-size: 15px;
+    transition: .6s;
     border: 2px solid rgb(244, 109, 59);
 }
 
