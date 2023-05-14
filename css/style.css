@@ -184,6 +184,7 @@ nav {
 .togather-all a:hover {
     color: darkgray;
     background-color: rgb(244, 109, 59);
+    border: 2px solid coral;
 }
 
 nav .container {
