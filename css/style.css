@@ -143,14 +143,18 @@ nav .container {
     background-color: #FFFFFF;
 }
 
+.nature-img-texts {
+    display: flex;
+    justify-content: space-around;
+}
+
 .img1 {
-    width: 460px;
+    width: 300px;
     height: 281px;
-    background-image: url(/img/IMAGE\ \(42\).png);
 }
 
 .img2 {
-    width: 460px;
+    width: 300px;
     height: 281px;
     background-image: url(/img/IMAGE\ \(42\).png);
 }
