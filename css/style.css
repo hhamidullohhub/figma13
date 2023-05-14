@@ -139,6 +139,10 @@ body {
     .link a {
         font-size: 6px;
     }
+
+    .togather-all p {
+        font-size: 10px;
+    }
 }
 
 nav {
