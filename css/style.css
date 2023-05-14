@@ -143,6 +143,11 @@ nav .container {
     background-color: #FFFFFF;
 }
 
+.img1 {
+    width: 200px;
+    height: 150px;
+}
+
 .nature-all {
     padding: 25px 0;
     display: flex;
