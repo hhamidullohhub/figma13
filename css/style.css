@@ -97,6 +97,10 @@ nav {
     background-image: url(/img/IMAGE\ \(41\).png);
 }
 
+.item_Escape {
+    color: white;
+}
+
 
 nav .container {
     display: flex;
