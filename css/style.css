@@ -138,10 +138,7 @@ body {
 nav {
     background-image: url(/img/IMAGE\ \(41\).png);
     padding-bottom: 235px;
-    padding-top: 100px;
     background-repeat: no-repeat;
-    background-position: center;
-    margin-top: -88px;
 }
 
 .item_Escape {
@@ -167,22 +164,11 @@ nav {
 
 .togather-all h1 {
     font-size: 40px;
-    letter-spacing: 5px;
-}
-
-.view-link {
-    color: white;
-    background-color: coral;
-    padding: 15px 20px;
-    border-radius: 8px;
-    margin-top: 20px;
 }
 
 .togather-all p {
     font-size: 20px;
     font-weight: 100;
-    margin-top: 15px;
-    color: darkgray;
 }
 
 
@@ -190,7 +176,7 @@ nav .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 0px;
+    padding-top: 20px;
 }
 
 .item {
