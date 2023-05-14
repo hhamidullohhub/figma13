@@ -37,7 +37,6 @@ body {
 @media (max-width: 960px) {
     .container {
         width: 840px;
-        background: gold;
     }
 }
 
