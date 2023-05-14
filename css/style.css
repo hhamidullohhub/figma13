@@ -106,6 +106,7 @@ nav {
     color: white;
     margin: 0 15px;
     text-transform: capitalize;
+    transition: .6s;
 }
 
 .togather-all {
