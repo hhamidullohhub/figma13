@@ -31,3 +31,7 @@ nav .container {
 .item {
     display: flex;
 }
+
+.list {
+    margin: 0 15px;
+}
