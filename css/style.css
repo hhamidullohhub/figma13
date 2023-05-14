@@ -112,6 +112,10 @@ nav {
     color: white;
 }
 
+.togather-all h1 {
+    font-size: 40px;
+}
+
 
 nav .container {
     display: flex;
