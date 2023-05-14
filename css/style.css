@@ -77,8 +77,12 @@ body {
         background: aqua;
     }
 
-    .item_omega {
+    .item_Escape {
         font-size: 15px;
+    }
+
+    .list a {
+        font-size: 10px;
     }
 }
 
@@ -93,7 +97,7 @@ body {
 nav .container {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-top: 30px;
 }
 
