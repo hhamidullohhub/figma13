@@ -154,8 +154,9 @@ nav .container {
     justify-content: space-evenly;
 }
 
-.nature-li {
+.nature-li p {
     color: rgb(142, 138, 138);
+    transition: .6s;
 }
 
 .nature-li p:hover {
