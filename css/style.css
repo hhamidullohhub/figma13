@@ -138,6 +138,7 @@ body {
 nav {
     background-image: url(/img/IMAGE\ \(41\).png);
     padding-bottom: 235px;
+    padding-top: 60px;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -188,7 +189,7 @@ nav .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 20px;
+    padding-top: 0px;
 }
 
 .item {
