@@ -154,6 +154,10 @@ nav .container {
     justify-content: space-evenly;
 }
 
+.nature-li {
+    
+}
+
 .nature-li p:hover {
     cursor: pointer;
     color: coral;
