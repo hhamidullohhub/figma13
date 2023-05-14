@@ -171,6 +171,11 @@ nav {
     font-weight: 100;
 }
 
+.togather-all a {
+    background-color: coral;
+    padding: 15px 20px;
+}
+
 
 nav .container {
     display: flex;
