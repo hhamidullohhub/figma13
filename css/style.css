@@ -93,6 +93,10 @@ body {
     }
 }
 
+nav {
+    background-image: url(/img/IMAGE\ \(41\).png);
+}
+
 
 nav .container {
     display: flex;
