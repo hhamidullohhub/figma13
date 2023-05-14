@@ -31,7 +31,6 @@ body {
 @media (max-width: 1060px) {
     .container {
         width: 940px;
-        background: blue;
     }
 }
 
