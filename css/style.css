@@ -66,6 +66,10 @@ body {
     .nature-li p {
         font-size: 12px;
     }
+
+    .nature-all {
+        margin-top: -24px;
+    }
 }
 
 @media (max-width: 560px) {
@@ -116,6 +120,7 @@ body {
 nav {
     background-image: url(/img/IMAGE\ \(41\).png);
     padding-bottom: 235px;
+    background-repeat: no-repeat;
 }
 
 .item_Escape {
