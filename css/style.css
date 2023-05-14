@@ -136,8 +136,8 @@ body {
         margin-left: -40px;
     }
 
-    .item {
-        width: 1000px;
+    .link a {
+        font-size: 6px;
     }
 }
 
