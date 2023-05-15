@@ -227,3 +227,7 @@ nav .container {
     cursor: pointer;
     color: coral;
 }
+
+.img1 {
+    background-image: url(/img/IMAGE\ \(42\).png);
+}
