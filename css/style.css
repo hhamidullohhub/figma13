@@ -237,4 +237,7 @@ nav .container {
 
 .img2 {
     background-image: url(/img/IMAGE\ \(42\).png);
+    background-size: 100%;
+    padding: 200px;
+    background-repeat: no-repeat;
 }
