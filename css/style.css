@@ -270,6 +270,7 @@ nav .container {
 
 .road1 {
     display: flex;
+    align-items: center;
 }
 
 .the {
@@ -283,4 +284,5 @@ nav .container {
 
 .mat {
     margin-left: 10px;
+    color: darkgray;
 }
