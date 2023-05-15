@@ -265,6 +265,7 @@ nav .container {
 
 .road-flex {
     display: flex;
+    justify-content: space-between;
 }
 
 .road1 {
