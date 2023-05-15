@@ -313,3 +313,7 @@ nav .container {
     font-weight: unset;
     font-size: 25px;
 }
+
+.william-all {
+    display: flex;
+}
