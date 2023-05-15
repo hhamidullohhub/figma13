@@ -244,12 +244,21 @@ nav .container {
 }
 
 .posts {
-    text-align: center;
-    margin-top: 50px;
-    padding-top: 100px;
-    padding-bottom: 50px;
+    font-weight: unset;
+    margin-left: 500px;
+    padding-bottom: 5px;
+}
+
+.nature-img-texts {
+    margin-top: 100px;
+}
+
+.posts:hover {
+    border-bottom: 2px solid darkgray;
+    width: 170px;
 }
 
 .section-second {
     background-color: #F7F7F7;
+    padding-top: 100px;
 }
