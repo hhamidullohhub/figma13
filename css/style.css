@@ -245,6 +245,10 @@ nav .container {
     color: white;
 }
 
+.adventure {
+    background-color: #DD783F;
+}
+
 .posts {
     font-weight: unset;
     margin-left: 500px;
