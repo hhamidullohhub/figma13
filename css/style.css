@@ -248,6 +248,7 @@ nav .container {
 .adventure {
     width: 135px;
     padding: 10px 20px;
+    border-radius: 8px;
     background-color: #DD783F;
 }
 
@@ -283,6 +284,11 @@ nav .container {
 
 .the {
     margin-top: 100px;
+    font-weight: unset;
+}
+
+.the2 {
+    margin-top: 60px;
     font-weight: unset;
 }
 
