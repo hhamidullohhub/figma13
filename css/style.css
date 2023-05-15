@@ -275,11 +275,13 @@ nav .container {
 
 .the {
     margin-top: 100px;
+    font-weight: unset;
 }
 
 .ahead {
     padding-top: 20px;
     padding-bottom: 15px;
+    color: darkgray;
 }
 
 .mat {
