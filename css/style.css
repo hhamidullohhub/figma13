@@ -232,13 +232,13 @@ nav .container {
 .img1 {
     background-image: url(/img/IMAGE\ \(42\).png);
     background-size: 100%;
-    padding: 200px;
+    padding: 50px;
     background-repeat: no-repeat;
 }
 
 .img2 {
     background-image: url(/img/IMAGE\ \(42\).png);
     background-size: 100%;
-    padding: 50px;
+    /* padding: 50px; */
     background-repeat: no-repeat;
 }
