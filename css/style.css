@@ -309,4 +309,7 @@ nav .container {
 
 .most {
     margin-left: 500px;
+    margin-top: 60px;
+    font-weight: unset;
+    font-size: 25px;
 }
