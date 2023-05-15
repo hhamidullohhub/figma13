@@ -242,3 +242,7 @@ nav .container {
     /* padding: 50px; */
     background-repeat: no-repeat;
 }
+
+.posts {
+    text-align: center;
+}
