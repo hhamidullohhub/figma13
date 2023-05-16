@@ -317,6 +317,10 @@ nav .container {
     color: darkgray;
 }
 
+.img-texts {
+    background-color: white;
+}
+
 .william-all {
     border-top: 2px solid darkgray;
     display: flex;
