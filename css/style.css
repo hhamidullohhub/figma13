@@ -320,6 +320,9 @@ nav .container {
 .img-texts {
     background-color: white;
     margin-top: 20px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 10px;
 }
 
 .william-all {
