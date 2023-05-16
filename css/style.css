@@ -404,6 +404,7 @@ footer {
     font-family: 'Times New Roman', Times, serif;
     width: 200px;
     margin-left: 500px;
+    height: 40px;
 }
 
 .stay-text:hover {
