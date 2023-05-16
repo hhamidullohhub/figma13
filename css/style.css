@@ -28,6 +28,10 @@ body {
         width: 1040px;
         background-color: red;
     }
+
+    .posts {
+        margin-left: 200px;
+    }
 }
 
 @media (max-width: 1060px) {
