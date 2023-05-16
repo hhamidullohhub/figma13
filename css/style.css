@@ -61,7 +61,7 @@ body {
 @media (max-width: 660px) {
     .container {
         width: 540px;
-        background-color: ;
+        background-color: darkgrey;
     }
 
     .nature-li p {
@@ -76,6 +76,7 @@ body {
 @media (max-width: 560px) {
     .container {
         width: 440px;
+        background-color: aquamarine;
     }
 
     .link a {
@@ -86,6 +87,7 @@ body {
 @media (max-width: 460px) {
     .container {
         width: 340px;
+        background-color: blueviolet;
     }
 
     .item_Escape {
@@ -112,6 +114,7 @@ body {
 @media (max-width: 360px) {
     .container {
         width: 240px;
+        background-color: maroon;
     }
 
     .nature-li p {
