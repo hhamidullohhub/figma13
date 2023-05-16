@@ -323,7 +323,8 @@ nav .container {
 }
 
 .still-all {
-    width: 30%;
+    width: 100px;
+    height: 20px;
     display: flex;
     justify-content: space-between;
 }
