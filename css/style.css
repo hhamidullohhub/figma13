@@ -283,9 +283,11 @@ nav .container {
 }
 
 .posts {
+    /* width: 1150px; */
     font-weight: unset;
-    margin-left: 500px;
+    text-align: center;
     padding-bottom: 5px;
+    height: 30px;
 }
 
 .nature-img-texts {
@@ -293,8 +295,7 @@ nav .container {
 }
 
 .posts:hover {
-    border-bottom: 2px solid darkgray;
-    width: 170px;
+    /* border-bottom: 2px solid darkgray; */
 }
 
 .section-second {
