@@ -341,3 +341,11 @@ nav .container {
     display: flex;
     justify-content: space-evenly;
 }
+
+.img-texts img {
+    transition: .6s;
+}
+
+.img-texts img:hover {
+    transform: scale(1.2);
+}
