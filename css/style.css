@@ -245,6 +245,8 @@ nav .container {
     padding: 50px;
     background-repeat: no-repeat;
     color: white;
+    box-shadow: 0px 0px 50px 0px rgb(0, 0, 0);
+    height: 270px;
 }
 
 .img1:hover {
