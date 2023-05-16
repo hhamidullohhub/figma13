@@ -393,11 +393,16 @@ footer {
 }
 
 .footer-all {
-    margin-left: 500px;
+    text-align: center;
+    /* margin-left: 500px; */
 }
 
 .stay-text {
     color: white;
     font-weight: unset;
     font-family: unset;
+}
+
+.footer-button {
+    padding: 20px 300px 20px 20px;
 }
