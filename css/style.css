@@ -393,5 +393,11 @@ footer {
 }
 
 .footer-all {
-    margin-left: auto;
+    margin-left: 500px;
+}
+
+.stay-text {
+    color: white;
+    font-weight: unset;
+    font-family: unset;
 }
