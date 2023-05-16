@@ -324,6 +324,7 @@ nav .container {
     padding-right: 0px;
     padding-bottom: 10px;
     width: 297px;
+    transition: .8s;
 }
 
 .william-all {
