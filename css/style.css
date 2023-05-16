@@ -20,6 +20,7 @@ body {
 .container {
     width: 1140px;
     margin: 0 auto;
+    border: 2px solid red;
 }
 
 @media (max-width: 1160px) {
@@ -307,24 +308,7 @@ nav .container {
     color: darkgray;
 }
 
-.most {
-    margin-left: 500px;
-    margin-top: 60px;
-    font-weight: unset;
-    font-size: 25px;
-}
-
-.img-texts {
-    background-color: white;
-}
-
-.william-all {
-    display: flex;
-}
-
 .still-all {
-    width: 100px;
-    height: 20px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
