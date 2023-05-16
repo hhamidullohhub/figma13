@@ -20,7 +20,7 @@ body {
 .container {
     width: 1140px;
     margin: 0 auto;
-    /* border: 2px solid red; */
+    border: 2px solid red;
 }
 
 @media (max-width: 1160px) {
@@ -29,8 +29,8 @@ body {
         background-color: red;
     }
 
-    .posts {
-        margin-left: 200px;
+    footer .container {
+        margin-left: -90px;
     }
 }
 
@@ -38,6 +38,18 @@ body {
     .container {
         width: 940px;
         background-color: green;
+    }
+
+    .img1 {
+        margin-right: -940px;
+    }
+
+    .img2 {
+        margin-top: 300px;
+    }
+
+    .img-texts {
+        width: 100px;
     }
 }
 
