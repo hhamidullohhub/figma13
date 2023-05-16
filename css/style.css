@@ -405,6 +405,7 @@ footer {
     width: 200px;
     margin-left: 500px;
     height: 40px;
+    transition: .6s;
 }
 
 .stay-text:hover {
