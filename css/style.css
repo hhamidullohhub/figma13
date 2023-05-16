@@ -418,3 +418,8 @@ footer {
     margin-left: -6px;
     border-radius: 0px 8px 8px 0px;
 }
+
+.footer-ul {
+    display: flex;
+    align-items: center;
+}
