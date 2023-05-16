@@ -262,6 +262,8 @@ nav .container {
     background-repeat: no-repeat;
     color: white;
     height: 270px;
+    border-radius: 10px;
+    transition: .6s;
 }
 
 .adventure {
