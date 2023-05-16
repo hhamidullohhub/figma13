@@ -341,8 +341,9 @@ nav .container {
 .still-all {
     display: flex;
     justify-content: space-evenly;
+    margin-top: 50px;
 }
 
 .img-texts:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
