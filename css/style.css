@@ -247,6 +247,10 @@ nav .container {
     color: white;
 }
 
+.img1:hover {
+    transform: scale(1.2);
+}
+
 .img2 {
     background-image: url(/img/IMAGE\ \(46\).png);
     background-size: 100%;
