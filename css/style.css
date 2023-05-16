@@ -413,4 +413,6 @@ footer {
     color: white;
     padding: 20px 20px 20px 20px;
     background-color: darkgrey;
+    margin-left: -6px;
+    border-radius: 0px 8px 8px 0px;
 }
