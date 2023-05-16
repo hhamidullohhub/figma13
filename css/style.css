@@ -318,6 +318,7 @@ nav .container {
 }
 
 .william-all {
+    border-top: 2px solid darkgray;
     display: flex;
     justify-content: space-around;
 }
