@@ -401,7 +401,7 @@ footer {
 .stay-text {
     color: white;
     font-weight: unset;
-    font-family: unset;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .footer-button {
