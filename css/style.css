@@ -428,4 +428,5 @@ footer {
 .footer-link {
     color: white;
     margin: 0px 15px;
+    text-transform: capitalize;
 }
