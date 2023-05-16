@@ -364,6 +364,10 @@ nav .container {
     transform: scale(1.1);
 }
 
+.still-text {
+    margin-left: 15px;
+}
+
 .still-p {
     color: darkgrey;
     margin-top: 10px;
