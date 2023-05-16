@@ -426,12 +426,17 @@ footer {
     justify-content: space-around;
     background-color: #232F3899;
     margin-top: 50px;
+    padding: 15px 0;
 }
 
 .footer-link {
-    color: white;
+    color: darkgrey;
     margin: 0px 15px;
     text-transform: capitalize;
+}
+
+.footer-link:hover {
+    color: coral;
 }
 
 .eskape1 {
