@@ -321,6 +321,10 @@ nav .container {
     display: flex;
 }
 
+.william1 {
+    display: flex;
+}
+
 .still-all {
     display: flex;
     justify-content: space-evenly;
