@@ -49,7 +49,7 @@ body {
     }
 
     .img-texts {
-        width: 45%;
+        width: 45% !important;
     }
 }
 
@@ -306,10 +306,6 @@ nav .container {
     margin-top: 100px;
 }
 
-.posts:hover {
-    /* border-bottom: 2px solid darkgray; */
-}
-
 .section-second {
     background-color: #F7F7F7;
     padding: 100px 0px;
@@ -359,6 +355,7 @@ nav .container {
     width: 295px;
     transition: .8s;
     border-radius: 10px;
+    bottom: 20vh;
 }
 
 .img-texts:hover {
