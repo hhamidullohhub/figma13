@@ -317,6 +317,10 @@ nav .container {
     color: darkgray;
 }
 
+.william-all {
+    display: flex;
+}
+
 .still-all {
     display: flex;
     justify-content: space-evenly;
