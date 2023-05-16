@@ -319,6 +319,7 @@ nav .container {
 
 .william-all {
     display: flex;
+    justify-content: space-around;
 }
 
 .william1 {
