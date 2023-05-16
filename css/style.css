@@ -314,6 +314,16 @@ nav .container {
     font-size: 25px;
 }
 
+.img-texts {
+    background-color: white;
+}
+
 .william-all {
     display: flex;
+}
+
+.still-all {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
 }
