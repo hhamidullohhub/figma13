@@ -390,6 +390,7 @@ footer {
     background-image: url(/img/IMAGE\ \(54\).png);
     background-size: 100%;
     padding: 100px;
+    background-repeat: no-repeat;
 }
 
 .footer-all {
