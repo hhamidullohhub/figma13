@@ -402,6 +402,11 @@ footer {
     color: white;
     font-weight: unset;
     font-family: 'Times New Roman', Times, serif;
+    width: 200px;
+}
+
+.stay-text:hover {
+    border-bottom: 1px solid darkgrey;
 }
 
 .footer-button {
