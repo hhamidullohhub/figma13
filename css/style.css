@@ -347,3 +347,7 @@ nav .container {
 .img-texts:hover {
     transform: scale(1.1);
 }
+
+.still-p {
+    color: darkgrey;
+}
