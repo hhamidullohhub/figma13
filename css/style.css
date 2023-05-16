@@ -391,3 +391,7 @@ footer {
     background-size: 100%;
     padding: 100px;
 }
+
+.footer-all {
+    margin-left: auto;
+}
