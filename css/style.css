@@ -433,6 +433,7 @@ footer {
     color: darkgrey;
     margin: 0px 15px;
     text-transform: capitalize;
+    transition: .6s;
 }
 
 .footer-link:hover {
@@ -441,4 +442,5 @@ footer {
 
 .eskape1 {
     color: white;
+    font-size: 25px;
 }
