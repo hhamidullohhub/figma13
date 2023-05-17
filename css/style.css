@@ -66,7 +66,8 @@ body {
 
     .still-all {
         display: flex;
-        justify-content: space-around;
+        width: 600px;
+        margin: auto;
     }
 
     .img-texts {
@@ -76,6 +77,7 @@ body {
 
     .nature-img-texts {
         width: 940px;
+        margin-left: -50px;
     }
 }
 
