@@ -52,6 +52,10 @@ body {
         width: 50px;
         flex-wrap: wrap;
     }
+
+    .img-texts {
+        width: 45%;
+    }
 }
 
 @media (max-width: 960px) {
@@ -61,7 +65,12 @@ body {
     }
 
     .still-all {
-        
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .img-texts {
+        width: 45%;
     }
 }
 
